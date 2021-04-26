@@ -2,11 +2,11 @@
 
 FreeCodeCamp Responsive Web Design Certification Projects Solutions.
 
-# Useful resource
+# Useful Resources-
 
 freeCodeCamp - https://www.freecodecamp.org/learn/responsive-web-design/
 
-# License
+# License & copyright
 
 @ Harshvardhan Joshi
 
